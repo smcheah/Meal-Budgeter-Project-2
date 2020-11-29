@@ -14,8 +14,9 @@ As a university student recently out of home, I struggle with cooking and mainta
 - [Features & Technologies](#features--technologies-used-sparkles)
 - [Installation](#installation-hammer_and_wrench)
 - [Usage Demo](#usage-demo)
-- [Contributing](#contributing)
 - [License](#license-)
+- [Contributing](#contributing)
+- [Credits](#credits)
 - [Got questions?](#got-questions-thinking)
 
 ## Features & Technologies used :sparkles:
@@ -48,6 +49,12 @@ As a university student recently out of home, I struggle with cooking and mainta
 ## Installation :hammer_and_wrench:
 
 Head to the deployed site: https://vast-crag-85624.herokuapp.com/
+
+## Usage Demo
+
+![demo-1](https://media.giphy.com/media/2Hz1zi30Q0Q4dFef7t/giphy.gif)
+
+![demo-2](https://media.giphy.com/media/EVbDIZoo0nksWwPaoW/giphy.gif)
 
 ## License ![License](https://img.shields.io/github/license/willwoodburn1/Group-Project-2)
 
